@@ -6,7 +6,7 @@
                     <ul>
                            <li>💻 Desenvolvedor Full Stack</li>
                         <li>:earth_americas: Belo Horizonte/MG - Brasil</li>
-                       <li>:hourglass: 19 anos de idade</li>
+                       <li>:hourglass: 20 anos de idade</li>
                    </ul>
                  </td>
                  <td>
