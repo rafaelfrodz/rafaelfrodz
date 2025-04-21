@@ -1,28 +1,19 @@
-<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> Opa! E aii?  </h2>
-<p>Olá! Me chamo Rafael César<br/>E estou começando estudos em Web Dev (HTML, CSS, JAVASCRIPT) - Web Dev loading <img height="12em" alt="Loading" src="https://media3.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif?cid=ecf05e47lm8vumtn0f0o0lqmd2ucu87jypln87o0gyqu1abx&rid=giphy.gif&ct=g"></b>.</p>
-<table> <tr>
-                 <td>
-                            <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
-                    <ul>
-                           <li>💻 Desenvolvedor Full Stack</li>
-                        <li>:earth_americas: Belo Horizonte/MG - Brasil</li>
-                       <li>:hourglass: 20 anos de idade</li>
-                   </ul>
-                 </td>
-                 <td>
-                         <h4>  Aprendendo: </h4>
-                   <ul>
-                      <img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img align= "botton" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-                   </ul>
-                </td>
-                <td>
-                     <h4>Me encontre por aqui: </h4>
-                    
-  <a href="https://www.instagram.com/rafaelfrodz/" target ="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
-      <br><br>
-  <a href="https://www.linkedin.com/in/rafael-césar/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-                 </td>
-                 <td>
-                     <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="250px"/>
-                 </td>
-</tr></table>
+<h3>ABOUT ME</h3>
+
+I'm a backend developer, with experience in building web platforms.<br>I prioritize performance, and writing secure, maintainable, and robust code. In addition, I also like to help and communicate whenever possible. 
+
+<h3>EXPERIENCE</h3>
+
+I have experience working in both private companies and as a freelancer.
+
+I've spent most of my time as a developer working with:
+
+- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/- Flask -- Pandas -- Unittests -- Typing-grey" alt="Flask, Pandas, Unittests, Typing">
+- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js">
+
+I also have experience with:
+
+- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
+- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell">
+- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
+
