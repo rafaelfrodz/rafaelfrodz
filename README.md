@@ -14,6 +14,6 @@ I've spent most of my time as a developer working with:
 I also have experience with:
 
 - <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
-- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell">
+- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell-grey" alt="Docker, Microservices, Unix Shell">
 - <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
 
